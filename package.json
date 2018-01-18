@@ -1,6 +1,6 @@
 {
   "name": "webpack-react-redux-postcss-boilerplate",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "scripts": {
     "build:dev": "NODE_ENV=development webpack --config config/webpack",
